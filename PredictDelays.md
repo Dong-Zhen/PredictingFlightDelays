@@ -21,7 +21,7 @@ Passengers lose money because of **unforeseen delays**. They have to pay extra f
 
 ## Data Sources
 
-I will be using data from the Federal Aviation Administration, the Bureau of Transportation Statstics, and Weather Data.
+I will be using data from the Federal Aviation Administration, the Bureau of Transportation Statstics, and Weather Data. The focus is on Delta flights from the top 10 U.S. airports. 
 
 Questions: 
 
@@ -43,6 +43,6 @@ Reduce the costs for Delta and their customers caused by unforseen delays.
 
 ## Data Solution 
 
-Use classification to identify which flights will be delayed using weather, nas, security, and time features. 
+Use classification to identify which flights will be delayed using weather, nas, security, and potentially time features. 
 
 
