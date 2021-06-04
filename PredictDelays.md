@@ -31,7 +31,7 @@ Questions:
 
 ## Problem
 
-Airlines and passengers in the U.S. are incurring billions of losts annually form flight delays. How can Delta decrease these loses for unexpected flight delays from JFK?
+Airlines and passengers in the U.S. are incurring billions of losts annually form flight delays. How can Delta decrease these loses for unexpected flight delays?
 <!--more-->
 
 
