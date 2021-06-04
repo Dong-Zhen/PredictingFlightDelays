@@ -31,15 +31,15 @@ Questions:
 
 ## Problem
 
-Airlines and passengers in the U.S. are incurring billions of losts annually form flight delays. How can they decrease these loses?
+Airlines and passengers in the U.S. are incurring billions of losts annually form flight delays. How can Delta decrease these loses for unexpected flight delays from JFK?
 <!--more-->
 
 
 ## Desired Impact
 
-Reduce the costs for airlines and passengers caused by unforseen delays. 
+Reduce the costs for Delta and their customers caused by unforseen delays. 
 
-**Impact Hypothesis:** The costs incurred by unforseen delays can be reduced by predicing which flights will be delayed  in order for airlines to alert their customers and to better prepare for the delay. 
+**Impact Hypothesis:** The costs incurred by unforseen delays can be reduced by predicing which Delta flights will be delayed  in order for Delta to alert their customers and to better prepare for the delay. 
 
 ## Data Solution 
 
