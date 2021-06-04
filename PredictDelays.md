@@ -2,9 +2,9 @@
 
 ------------
 
-The Federal Aviation Administration (FAA) estimates that there's a total cost of 33 billion dollars due to air transportation delays in the United States in 2019. The main affected parties are airlines and passengers. The top contributors to delays are **weather, security, and national aviation system**. 
+The Federal Aviation Administration (FAA) estimates that there's a total cost of 33 billion dollars due to air transportation delays in the United States in 2019. The main affected parties are airlines and passengers. The top contributors to delays are **air crarrier, weather, security, and National Aviation System**. 
 
-There's an opportunity **to decrease the costs of delay** because most of the costs are incurred during unforeseen delays. For example example airlines could decrease accomodation costs when they let their passengers know ahead of time that there will be a delay so that the passengers could better prepare.
+There's an opportunity **to decrease the costs of delays** because most of the costs are incurred during unforeseen delays. For example example airlines could decrease accomodation costs when they let their passengers know ahead of time that there will be a delay so that the passengers could better prepare.
 
 As a data scientist, I believe that **training a classification model**  on the top contributors of air transportation delay can predict whether or not a flight will be a delayed departing flight.
 
