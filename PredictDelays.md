@@ -6,7 +6,7 @@ The Federal Aviation Administration (FAA) estimates that there's a total cost of
 
 There's an opportunity **to decrease the costs of delay** because most of the costs are incurred during unforeseen delays. For example example airlines could decrease accomodation costs when they let their passengers know ahead of time that there will be a delay so that the passengers could better prepare.
 
-As a data scientist, I believe that **training a classification model**  on the top contributors of air transportation delay can predict whether or not a flight will be a delayed arriving flight.
+As a data scientist, I believe that **training a classification model**  on the top contributors of air transportation delay can predict whether or not a flight will be a delayed departing flight.
 
 
 ------------
