@@ -11,6 +11,13 @@ As a data scientist, I believe that **training a classification model**  on the 
 
 ------------
 
+### Why delays are costly
+
+When one flight is delayed, it usually has a negative domino effect on the airline’s entire daily flight schedule. As a result, airlines lose billions of dollars annually due to unforeseen delays. 
+Airlines incur additional labor costs with delayed flights. Pilots are usually paid based on the greater between scheduled and actual block time, so if the duration of the flight exceeds the actual block time, the airline would have to pay more. They are also responsible for searching for crew members to cover for the scheduled crew if the flight arrives late to the gate.
+Additionally, airlines have to provide impacted passengers with travel vouchers if the flight is delayed significantly (3+ hours for Delta) as compensation for the delay. The cost usually adds up to thousands of dollars per fully booked flight! Not to mention, if passengers continue to experience flight delays with the same airline, the chances of them switching to a competitor with better on-time performance increases, which results in lower revenue. 
+If the airline continues to arrive late to the gate, their rank for on-time performance will drop to the bottom, damaging the airline’s reputation altogether. 
+
 ### Design
 
 To predict the departure delays, I had to design predictive features that were known before a plane departs. The most important features were name of time in day and the minutes delayed by NAS, Delta, and weather affected from the day before. I hypothesized that historical data and time of day would play a crucial part in whether or not there will be a departure delay. Another feature that was important was how many flights a certain plane had scheduled for the day, because the more flights means more turnaround time. Meaning, the aircraft has to go from place to place with less flexibility in schedule.
