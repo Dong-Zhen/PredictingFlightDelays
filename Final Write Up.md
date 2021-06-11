@@ -39,7 +39,7 @@ In the future I want to look deeper for weather, nas, and air carrier data.
 
 - [Final Code](https://github.com/Dong-Zhen/PredictingFlightDelays/tree/master/Code)
 - [Presentation](https://github.com/Dong-Zhen/PredictingFlightDelays/blob/master/Flight%20Delays.pdf)
-- [Write Up](https://github.com/Dong-Zhen/LR_NBAProject)
+- [Write Up](https://github.com/Dong-Zhen/PredictingFlightDelays/blob/master/Final%20Write%20Up.md)
 
 
 
